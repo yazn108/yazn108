@@ -12,21 +12,7 @@
 (project link)
 
 - I’m currently learning<br>**𝗛𝗧𝗠𝗟 + 𝗖𝗦𝗦**
-
-<svg  width="209.5" height="28">
-				
-				
-<g><rect width="160" height="23" fill="#000000"></g>
-
-<g text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="200">
-				
-				<text transform="scale(.1)" x="800" y="190" textLength="1400" fill="#00ff96">𝗛𝗧𝗠𝗟+𝗖𝗦𝗦</text>
-				
-		
-						</g>
-						</svg>
-
-
+						</g>						</svg
 - 👨‍💻 All of my projects are available at<br>[Currently, not available]<br>(Currently, not available)
 
 - You can ask me<br> **If you want hacked apps**
