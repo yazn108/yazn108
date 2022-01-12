@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yazn</h1>
+<h1 align="center">Hi , I'm yazn</h1>
 <h3 align="center">Hobbyist learning web languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazn108&label=Profile%20views&color=0e75b6&style=flat" alt="yazn108" /> </p>
