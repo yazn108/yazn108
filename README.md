@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/yazn_108" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=twitter&style=for-the-badge" alt="yazn_108" /></a> </p>
 
+<p align="left"> <a href="http://instagram.com/yazn_108?utm_source=qr" target="blank"><img src="https://img.shields.io/twitter/follow/yazn_108?logo=instagram&style=for-the-badge" alt="yazn_108" /></a> </p>
+
 - school projects<br>
  [project name]<br>
 (project link)
