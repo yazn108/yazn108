@@ -22,6 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/yazn_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yazn_108" height="30" width="40" /></a>
 <a href="https://instagram.com/yazn_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazn_108" height="30" width="40" /></a>
+<a href="https://vm.tiktok.com/ZSeQgTPep/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tiktok-icon-white-1.svg" alt="yazn_108" height="30" width="40" /></a>
+<a href="https://t.me/yazn108" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="yazn_108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
