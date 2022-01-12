@@ -34,4 +34,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazn108&show_icons=true&locale=en" alt="yazn108" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazn108&show_icons=true&title_color=00ff00&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="yazn108" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazn108&theme=highcontrast" alt="yazn108" /></p>
