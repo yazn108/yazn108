@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm yazn</h1>
-<h3 align="center">Hobbyist learning web languages</h3>
+<h3 align="center">{Hobbyist learning web languages}</h3>
 
 
 
