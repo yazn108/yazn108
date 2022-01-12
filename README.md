@@ -12,7 +12,7 @@
 (project link)
 
 - I’m currently learning<br>**𝗛𝗧𝗠𝗟 + 𝗖𝗦𝗦**
-						</g>						</svg
+						</g>						
 - 👨‍💻 All of my projects are available at<br>[Currently, not available]<br>(Currently, not available)
 
 - You can ask me<br> **If you want hacked apps**
