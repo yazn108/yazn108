@@ -17,7 +17,7 @@
 
 - You can ask me<br> **If you want hacked apps**
 
-- 📫 How to reach me **https://linktr.ee/yazn_108**
+- 📫 How to reach me **https://yazn108.github.io/yazn_108/**
 
 - Collect and publish hacked apps [https://t.me/yazn108](https://t.me/yazn108)
 
